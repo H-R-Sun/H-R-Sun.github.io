@@ -14,7 +14,7 @@ I am Haoran Sun, and I hold an M.S. in Applied Mathematics and Statistics from t
 
 My research has focused on applying machine learning techniques to healthcare data, including ECG-based prediction models, and evaluating large vision-language models using cognitive development benchmarks.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Sun Haoran's resume.pdf).
+You can find my CV here: [Haoran's Curriculum Vitae](../assets/Sun Haoran's resume.pdf).
 
 I am particularly interested in the intersection of machine learning, statistical analysis, and healthcare innovation. I have expertise in Python, R, C++.
 
