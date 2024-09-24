@@ -7,8 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am Haoran Sun, a recent graduate with a Master of Science in Applied Mathematics and Statistics from Johns Hopkins University. I also hold a Bachelor of Science in Statistics with minors in Computer Science and Mathematics from the University of Minnesota, Twin Cities. With a strong foundation in data science and machine learning, I have participated in various research projects, including medical image classification and predicting stress cardiomyopathy using neural networks.
+这是修改后的版本：
 
-In my free time, I enjoy enhancing my technical skills in Python, R, C++, and Java, and I am always eager to explore new challenges in data science and statistical modeling.
+---
+
+I am Haoran Sun, and I hold an M.S. in Applied Mathematics and Statistics from Johns Hopkins University, completed in May 2024. I previously earned a B.S. in Statistics with minors in Computer Science and Mathematics from the University of Minnesota.
+
+My research has focused on applying machine learning techniques to healthcare data, including ECG-based prediction models, and evaluating large vision models using cognitive development benchmarks.
+
+I am particularly interested in the intersection of machine learning, statistical analysis, and healthcare innovation. I have expertise in Python, R, C++, and Java, and I am fluent in both English and Mandarin.
+
+---
+
+如果还有其他修改，请告诉我！
 
 
