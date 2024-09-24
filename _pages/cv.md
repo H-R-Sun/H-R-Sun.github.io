@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Johns Hopkins University, 2024
+* B.S. in University of Minnesota, Twin Cities, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2022: Teaching Assistant
+  * University of Minnesota, Twin Cities
+  * Duties includes: I am the TA for STAT 3011, responsible for teaching the basics of R in weekly labs, answering students' questions from lectures, labs, homework, and exams, and grading assignments and exams.
+  * Supervisor: Yuyoung Park
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Research Assistant
+  * Capsida Biotherapeutics
+  * Duties included: I was a Researcher and Analyst for an HEK HCP ELISA Robustness Study, where I analyzed the impact of different reagents, standards, and incubation times on residual host cell proteins, using multivariate ANOVA to evaluate nearly 300 sets of data from 17 experiments.
+  * Supervisor: Guiyang Li
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* GRE 334
+* Computer Language
+  * Python
+  * R
+  * Java
 
 Publications
 ======
