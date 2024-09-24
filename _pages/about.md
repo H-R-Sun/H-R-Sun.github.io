@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I am Haoran Sun, and I hold an M.S. in Applied Mathematics and Statistics from Johns Hopkins University, completed in May 2024. I previously earned a B.S. in Statistics with minors in Computer Science and Mathematics from the University of Minnesota.
+I am Haoran Sun, and I hold an MS in Applied Mathematics and Statistics from the Whiting School of Engineering at Johns Hopkins University. I previously earned a B.S. in Statistics with minors in Computer Science and Mathematics from the University of Minnesota, Twin Cities.
 
 My research has focused on applying machine learning techniques to healthcare data, including ECG-based prediction models, and evaluating large vision-language models using cognitive development benchmarks.
 
